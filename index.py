@@ -1,2 +1,6 @@
 print("FAISAL KHAN")
-print("FAISAL")
+print("FAISAL KHAN")
+print("FAISAL 3 ")
+print("FAISAL 4")
+print("FAISAL 5 ")
+print("FAISAL 6")
